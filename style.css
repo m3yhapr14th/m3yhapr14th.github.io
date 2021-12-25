@@ -5,3 +5,11 @@
 .hplink{
     color: pink;
 }
+
+.align-center{
+    align-content: center;
+}
+
+.title{
+    font-size: 32px;
+}
