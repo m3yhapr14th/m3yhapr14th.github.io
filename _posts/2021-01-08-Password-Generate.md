@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Password Generate
+subtitle: Make your own password in cycle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [password]
 comments: true
 ---
 
-Code
+## Code
 ```
 #!/usr/bin/python3
 import os, hashlib
