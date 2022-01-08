@@ -15,7 +15,8 @@ author: m3yh
 
 navbar-links:
   About Me: "aboutme"
-  Code: "code/python"
+  Code:
+    - Python: "code/python"
   Repository:
     - Main: "https://github.com/m3yhapr14th"
     - Scrapper: "https://github.com/m3yhapr14th/scrapper"
