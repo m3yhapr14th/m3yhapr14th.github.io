@@ -16,9 +16,10 @@ author: m3yh
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://m3yhapr14th.github.io"
+    - Main Repository: "https://github.io/m3yhapr14th"
+    - Scrapper: "https://github.io/m3yhapr14th/scrapper"
+    - Basic: "https://github.io/m3yhapr14th/basic_edu"
+  Back: "https://m3yhapr14th.github.io"
 
 # --- Logo --- #
 
