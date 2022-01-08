@@ -2,7 +2,7 @@
 layout: post
 title: Password Generate
 subtitle: Make your own password in cycle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: m3yhapr14th/base_edu
 gh-badge: [star, fork, follow]
 tags: [password]
 comments: true
