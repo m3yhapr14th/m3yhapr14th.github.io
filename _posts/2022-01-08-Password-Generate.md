@@ -20,4 +20,4 @@ comments: true
 - 식별자 + @ + URL축략정보 + 축략자 글자수
 
 ## Shortcut
-- [Password Generate](code/python/pw_gen.md)
+- [Password Generate](/code/python/pw_gen.md)
