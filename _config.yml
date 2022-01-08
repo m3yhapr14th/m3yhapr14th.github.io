@@ -15,10 +15,10 @@ author: m3yh
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Main Repository: "https://github.com/m3yhapr14th"
+  Repository:
+    - Main: "https://github.com/m3yhapr14th"
     - Scrapper: "https://github.com/m3yhapr14th/scrapper"
-    - Basic: "https://github.com/m3yhapr14th/basic_edu"
+    - Basic Education: "https://github.com/m3yhapr14th/basic_edu"
   Back: "https://m3yhapr14th.github.io"
 
 # --- Logo --- #
