@@ -2,10 +2,6 @@
 layout: page
 title: Password Generate
 subtitle: Make your own password in cycle
-gh-repo: m3yhapr14th/basic_edu
-gh-badge: [star, fork, follow]
-tags: [password]
-comments: true
 ---
 
 ## Code
