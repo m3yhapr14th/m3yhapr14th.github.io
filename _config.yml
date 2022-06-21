@@ -17,6 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Code:
     - Python: "code/python"
+  Certificate:
+    - 정보처리기사: "certificate/Engineer_Information_Processing"
   Repository:
     - Main: "https://github.com/m3yhapr14th"
     - Scrapper: "https://github.com/m3yhapr14th/scrapper"
