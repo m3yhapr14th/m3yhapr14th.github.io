@@ -9,4 +9,4 @@ subtitle: Python
 - Python 3.9.9 64-bit
 
 ### basic_edu
-- [Password Generate](/code/python/pw_gen)
+- [Password Generate](pw_gen)
